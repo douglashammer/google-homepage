@@ -1,0 +1,1 @@
+This little project took a lot longer than I thought. The css is a bit jumbled and excessive but the final product doesn't look too bad.
